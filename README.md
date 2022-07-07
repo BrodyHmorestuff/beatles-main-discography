@@ -24,6 +24,7 @@ The Beatles (white album) - Their first and only* double album. A very good albu
 Yellow Submarine - A good soundtrack album*.
 Abbey Road - A absolutely excellent album.
 Let It Be - A excellent final album.
+the usb thing - very good gui.
 
 *For one side.
 
